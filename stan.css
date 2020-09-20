@@ -1,0 +1,41 @@
+#main{
+    color: black;
+}
+.body{
+    background-color: gainsboro;
+}
+#title{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-family: serif;
+}
+h2{
+    font-size: 25px;
+    text-align: center;
+    color: teal ;
+}
+#img-div{
+    display: flex;
+    flex: auto;
+    text-align: center;
+}
+#image{
+    max-width: 50%;
+    height: auto;
+    
+}
+#img-caption{
+    font-family: cursive;
+    color: brown;
+   
+}
+#tribute-info{
+    color: darkslategray;
+    text-align: center;
+}
+#tribute-link{
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+}
